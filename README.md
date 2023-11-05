@@ -15,3 +15,6 @@ skin not on here/link broken? contact me at discord Kissonix
 
 # [tekkito](https://cdn.discordapp.com/attachments/1077572371004788838/1170724942384472204/tekkito.osk?ex=655a1591&is=6547a091&hm=65035887b0d1c9bd04e50994c79418384480e86f765044e0eac74cf5bf533d2b&)
 <img src="https://i.imgur.com/XwEYZ62.jpg"/>
+
+# [im a fancy lad & shige DT](https://cdn.discordapp.com/attachments/614125314154561567/1170760691792216164/im_a_fancy_lad__shige_DT.osk?ex=655a36dc&is=6547c1dc&hm=9d1e1d478711a325c4357769c2a839fa59fdf25cdf48d6be43fb3d28352bb9ae&)
+<img src="https://i.imgur.com/AcEquQu.jpg"/>

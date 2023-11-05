@@ -50,5 +50,11 @@
   </a>
 </h1>
 
-# [im a fancy lad & shige DT](https://cdn.discordapp.com/attachments/614125314154561567/1170760691792216164/im_a_fancy_lad__shige_DT.osk?ex=655a36dc&is=6547c1dc&hm=9d1e1d478711a325c4357769c2a839fa59fdf25cdf48d6be43fb3d28352bb9ae&)
-<img src="https://i.imgur.com/AcEquQu.jpg"/>
+<h1>
+  <a href="https://cdn.discordapp.com/attachments/614125314154561567/1170760691792216164/im_a_fancy_lad__shige_DT.osk?ex=655a36dc&is=6547c1dc&hm=9d1e1d478711a325c4357769c2a839fa59fdf25cdf48d6be43fb3d28352bb9ae&">
+    <p align="center">
+      im a fancy lad & shige DT
+    </p>
+    <img src="https://i.imgur.com/AcEquQu.jpg"/>
+  </a>
+</h1>

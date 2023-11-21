@@ -28,7 +28,7 @@
     <p align="center">
       Rafis 2017-08-10
     </p>  
-    <img src="https://i.imgur.com/9iuNj4Q.jpg"/>
+    <img src="https://i.imgur.com/LoqabPy.jpg"/>
   </a>
 </h1>
 
@@ -56,5 +56,14 @@
       im a fancy lad & shige DT
     </p>
     <img src="https://i.imgur.com/AcEquQu.jpg"/>
+  </a>
+</h1>
+
+<h1>
+  <a href="https://cdn.discordapp.com/attachments/1077572371004788838/1176564732006768671/Moyai_Balls.osk?ex=656f544b&is=655cdf4b&hm=d318bcbe38e17f816775ed8496c8d7c84da35971d7ed74568174eec1360426c5&">
+    <p align="center">
+      Moyai Balls
+    </p>
+    <img src="https://i.imgur.com/lX2CZyu.jpg"/>
   </a>
 </h1>

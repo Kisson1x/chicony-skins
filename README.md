@@ -28,7 +28,7 @@
     <p align="center">
       Rafis 2017-08-10
     </p>  
-    <img src="https://i.imgur.com/LoqabPy.jpg"/>
+    <img src="https://i.imgur.com/p5P2udb.jpeg"/>
   </a>
 </h1>
 

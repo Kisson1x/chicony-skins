@@ -19,7 +19,7 @@
     <p align="center">
       MonkoGlassTest
     </p>
-    <img src="https://i.imgur.com/JuwYYnb.jpg"/>
+    <img src="https://cdn.discordapp.com/attachments/1077572371004788838/1184180898514608289/screenshot150.jpg?ex=658b0967&is=65789467&hm=a1ac158d34f898f94050dd73cd2dc6b777233777f83d0b8ecbc70447cdf332d5&"/>
   </a>
 </h1>
 
@@ -28,7 +28,7 @@
     <p align="center">
       Rafis 2017-08-10
     </p>  
-    <img src="https://i.imgur.com/p5P2udb.jpeg"/>
+    <img src="https://cdn.discordapp.com/attachments/1077572371004788838/1184180899038888056/screenshot151.jpg?ex=658b0967&is=65789467&hm=52649c4fa9ce4434a1c92f557f713750c76fb6e85d8e30e577fa483ae0620bd2&"/>
   </a>
 </h1>
 
@@ -37,7 +37,7 @@
     <p align="center">
       BubbleSkin20-10-09
     </p>
-    <img src="https://i.imgur.com/8801PIg.jpg"/>
+    <img src="https://cdn.discordapp.com/attachments/1077572371004788838/1184180899512856616/screenshot152.jpg?ex=658b0967&is=65789467&hm=429f78007ab14096fdacec97b3d606a250c82ccf76d5eb8882e27b2077ede653&"/>
   </a>
 </h1>
 
@@ -46,7 +46,7 @@
     <p align="center">
       tekkito
     </p>
-    <img src="https://i.imgur.com/XwEYZ62.jpg"/>
+    <img src="https://cdn.discordapp.com/attachments/1077572371004788838/1184180899802259476/screenshot153.jpg?ex=658b0967&is=65789467&hm=2fd0b5b6a3bac6edda1b2ff844c42f895192c418b0040785d2bfd1887725d6b7&"/>
   </a>
 </h1>
 
@@ -55,7 +55,7 @@
     <p align="center">
       im a fancy lad & shige DT
     </p>
-    <img src="https://i.imgur.com/AcEquQu.jpg"/>
+    <img src="https://cdn.discordapp.com/attachments/1077572371004788838/1184180900121030747/screenshot154.jpg?ex=658b0967&is=65789467&hm=f5669a115a80febcbb440e69a1b3e70a1a08980e99319b70c572b3fb538ace1c&"/>
   </a>
 </h1>
 
@@ -64,6 +64,15 @@
     <p align="center">
       Moyai Balls
     </p>
-    <img src="https://i.imgur.com/lX2CZyu.jpg"/>
+    <img src="https://cdn.discordapp.com/attachments/1077572371004788838/1184180900435599410/screenshot155.jpg?ex=658b0967&is=65789467&hm=9db39ba4b2403ce13ca5ba2bb2028fe04bddec7e48d874d8e129c7e4f4145482&"/>
+  </a>
+</h1>
+
+<h1>
+  <a href="https://drive.google.com/file/d/18tJTqez4uPMFKLjb2y_uhtcZmbq63ITx/view">
+    <p align="center">
+      Rafis but zylce
+    </p>
+    <img src="https://cdn.discordapp.com/attachments/1077572371004788838/1184180898061627514/screenshot149.jpg?ex=658b0967&is=65789467&hm=cc3b752e9f027f743fe5fdd5b2345dfe6cc0c036104ae009f082a512ee082f7b&"/>
   </a>
 </h1>

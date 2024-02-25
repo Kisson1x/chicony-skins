@@ -15,7 +15,7 @@
 -->
 
 <h1>
-  <a href="https://cdn.discordapp.com/attachments/1077572371004788838/1170710168993026238/MonkoGlassTest.osk?ex=655a07cf&is=654792cf&hm=e064ff61ed171b479df4e222cff023e3b09341649500aedba68dd92f88cafc95&">
+  <a href="https://cdn.discordapp.com/attachments/1211355963869634571/1211356549725823077/MonkoGlassTest.osk?ex=65ede6b3&is=65db71b3&hm=d9cf0e19504ed7494f21f38df312f213bc7f12b149fb3ea6b04d709c9c309abf&">
     <p align="center">
       MonkoGlassTest
     </p>
@@ -24,7 +24,7 @@
 </h1>
 
 <h1>
-  <a href="https://cdn.discordapp.com/attachments/614125314154561567/1170720328104816720/Rafis_2017-08-10.osk?ex=655a1145&is=65479c45&hm=a84d13f68e53523b7a398ad227e907700bef658cce02eff15b34b833fe762a82&">
+  <a href="https://cdn.discordapp.com/attachments/614125314154561567/1170720328104816720/Rafis_2017-08-10.osk?ex=65edb945&is=65db4445&hm=4b79811649389c2a360a76625cc24f15ed925c0977aab6d64b5d8d9fd17b6e98&">
     <p align="center">
       Rafis 2017-08-10
     </p>  
@@ -42,7 +42,7 @@
 </h1>
 
 <h1>
-  <a href="https://cdn.discordapp.com/attachments/1077572371004788838/1170721587813687327/BubbleSkin20-10-09.osk?ex=655a1271&is=65479d71&hm=74af508a23001707b1016bf288a2e16452cb68908583148fdf8e0f1529ba38fb&">
+  <a href="https://cdn.discordapp.com/attachments/1077572371004788838/1170721587813687327/BubbleSkin20-10-09.osk?ex=65edba71&is=65db4571&hm=495870338e19594da449ad7c988da02c33b83ead1b690c6d180090300bcd1d53&">
     <p align="center">
       BubbleSkin20-10-09
     </p>
@@ -60,7 +60,7 @@
 </h1>
 
 <h1>
-  <a href="https://cdn.discordapp.com/attachments/614125314154561567/1170760691792216164/im_a_fancy_lad__shige_DT.osk?ex=655a36dc&is=6547c1dc&hm=9d1e1d478711a325c4357769c2a839fa59fdf25cdf48d6be43fb3d28352bb9ae&">
+  <a href="https://cdn.discordapp.com/attachments/614125314154561567/1170760691792216164/im_a_fancy_lad__shige_DT.osk?ex=65eddedc&is=65db69dc&hm=f34ea3d0fb17095d2a01e466acd1d70e58a45ce625829ca1f5c4aa314ccae5d1&">
     <p align="center">
       im a fancy lad & shige DT
     </p>
@@ -69,7 +69,7 @@
 </h1>
 
 <h1>
-  <a href="https://cdn.discordapp.com/attachments/1077572371004788838/1176564732006768671/Moyai_Balls.osk?ex=656f544b&is=655cdf4b&hm=d318bcbe38e17f816775ed8496c8d7c84da35971d7ed74568174eec1360426c5&">
+  <a href="https://cdn.discordapp.com/attachments/1077572371004788838/1176564732006768671/Moyai_Balls.osk?ex=65e74ccb&is=65d4d7cb&hm=9b5b5b21bc9ce54821dd818e8a64bcd287189d04b81767227b6163dd30982b8e&">
     <p align="center">
       Moyai Balls
     </p>

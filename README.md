@@ -19,7 +19,7 @@
     <p align="center">
       MonkoGlassTest
     </p>
-    <img src="https://cdn.discordapp.com/attachments/1077572371004788838/1184180898514608289/screenshot150.jpg?ex=658b0967&is=65789467&hm=a1ac158d34f898f94050dd73cd2dc6b777233777f83d0b8ecbc70447cdf332d5&"/>
+    <img src="https://cdn.discordapp.com/attachments/1211223938265382912/1211224440566841354/screenshot964.jpg?ex=65ed6baa&is=65daf6aa&hm=ef83eb12945a20c51e98f5e9411101441f25bc82ffc78bd8eb2da44a398e2f3c&"/>
   </a>
 </h1>
 
@@ -82,7 +82,7 @@
     <p align="center">
       Rafis but zylce
     </p>
-    <img src="https://cdn.discordapp.com/attachments/1077572371004788838/1184180898061627514/screenshot149.jpg?ex=658b0967&is=65789467&hm=cc3b752e9f027f743fe5fdd5b2345dfe6cc0c036104ae009f082a512ee082f7b&"/>
+    <img src="https://cdn.discordapp.com/attachments/1211223938265382912/1211225216660021318/7291.jpg?ex=65ed6c63&is=65daf763&hm=a98283f48ed2a3cf01b7576e34c1693a255335c4210a605649568f478d6ad0e9&"/>
   </a>
 </h1>
 

@@ -55,7 +55,7 @@
     <p align="center">
       tekkito
     </p>
-    <img src="https://cdn.discordapp.com/attachments/1077572371004788838/1184180899802259476/screenshot153.jpg?ex=658b0967&is=65789467&hm=2fd0b5b6a3bac6edda1b2ff844c42f895192c418b0040785d2bfd1887725d6b7&"/>
+    <img src="https://cdn.discordapp.com/attachments/1077572371004788838/1184180899802259476/screenshot153.jpg?ex=65e75267&is=65d4dd67&hm=2d800ddd593ad6c00ebc65ab889d9e988bb6580a16ceb272d7c8c566e59292b4&"/>
   </a>
 </h1>
 

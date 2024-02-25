@@ -51,7 +51,7 @@
 </h1>
 
 <h1>
-  <a href="https://cdn.discordapp.com/attachments/1077572371004788838/1170724942384472204/tekkito.osk?ex=655a1591&is=6547a091&hm=65035887b0d1c9bd04e50994c79418384480e86f765044e0eac74cf5bf533d2b&">
+  <a href="https://cdn.discordapp.com/attachments/1077572371004788838/1170724942384472204/tekkito.osk?ex=65edbd91&is=65db4891&hm=7d76d92d7cfbbcf8561e3e095e2058317d84ac68c09159052a60ad0d2a2d65b6&">
     <p align="center">
       tekkito
     </p>

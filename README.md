@@ -1,6 +1,6 @@
 <h1 align="center">Chicony's skins</h1>
 <p align="center">
-  Skin is not on the list or the link is broken? Contact me at discord Kissonix
+ the links don't work here anymore
 </p>
 
 <!-- Skin template, part to edit are wrapped in ``
